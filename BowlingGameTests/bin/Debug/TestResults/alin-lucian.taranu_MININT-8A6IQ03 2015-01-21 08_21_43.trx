@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0a4dc966-bc9b-4c86-b07d-5c8b8a1ae9e6" name="alin-lucian.taranu@MININT-8A6IQ03 2015-01-21 08:21:43" runUser="MUC\alin-lucian.taranu" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e498e707-f5df-425d-b49c-f98b0b0d7118">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="alin-lucian.taranu_MININT-8A6IQ03 2015-01-21 08_21_43" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-01-21T08:21:43.3584738+01:00" queuing="2015-01-21T08:21:43.8085188+01:00" start="2015-01-21T08:21:44.2095589+01:00" finish="2015-01-21T08:21:44.5775957+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="9" executed="9" passed="9" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="InvalidNumberOfPinsDownedIsEnteredForPlayerOne_ExceptionShoudOccur" storage="c:\users\alin-lucian.taranu\downloads\bowlinggamev3\bowlinggametests\bin\debug\bowlinggametests.dll" id="4789b08b-5656-4557-856f-c4b59073bb43">
+      <Execution timeOut="1800000" id="ce489284-3156-4ce8-8a6c-f1035aa2a0cb" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Downloads/BowlingGamev3/BowlingGameTests/bin/Debug/BowlingGameTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTests.BowlingGameTests, BowlingGameTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InvalidNumberOfPinsDownedIsEnteredForPlayerOne_ExceptionShoudOccur" />
+    </UnitTest>
+    <UnitTest name="StrikeFrameAtTheEndOfGame_IsCalculatedCorrectly" storage="c:\users\alin-lucian.taranu\downloads\bowlinggamev3\bowlinggametests\bin\debug\bowlinggametests.dll" id="7fc40d87-75d2-5ae0-8234-db5a4f1ed928">
+      <Execution timeOut="1800000" id="33057fcf-0a5f-475f-b76a-a5b20abf718a" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Downloads/BowlingGamev3/BowlingGameTests/bin/Debug/BowlingGameTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTests.BowlingGameTests, BowlingGameTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StrikeFrameAtTheEndOfGame_IsCalculatedCorrectly" />
+    </UnitTest>
+    <UnitTest name="SpareFrameDuringGame_IsCalculatedCorrectly" storage="c:\users\alin-lucian.taranu\downloads\bowlinggamev3\bowlinggametests\bin\debug\bowlinggametests.dll" id="54da63ae-9652-4369-e00d-1441a041e0be">
+      <Execution timeOut="1800000" id="fbd1efe8-6701-4836-a7cc-33006c0c1540" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Downloads/BowlingGamev3/BowlingGameTests/bin/Debug/BowlingGameTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTests.BowlingGameTests, BowlingGameTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SpareFrameDuringGame_IsCalculatedCorrectly" />
+    </UnitTest>
+    <UnitTest name="StrikeFrameDuringGame_IsCalculatedCorrectly" storage="c:\users\alin-lucian.taranu\downloads\bowlinggamev3\bowlinggametests\bin\debug\bowlinggametests.dll" id="4411c07b-21ef-500d-4b65-e15eb3261097">
+      <Execution timeOut="1800000" id="327533f3-03fa-4607-b1f0-2945df6714cb" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Downloads/BowlingGamev3/BowlingGameTests/bin/Debug/BowlingGameTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTests.BowlingGameTests, BowlingGameTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StrikeFrameDuringGame_IsCalculatedCorrectly" />
+    </UnitTest>
+    <UnitTest name="NormalGame_EndsAfter10Rounds" storage="c:\users\alin-lucian.taranu\downloads\bowlinggamev3\bowlinggametests\bin\debug\bowlinggametests.dll" id="b9f2560a-fedc-7d7d-3b20-e546da9acd51">
+      <Execution timeOut="1800000" id="0b96be51-86cc-4ec1-a7ec-803fa3cd5e72" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Downloads/BowlingGamev3/BowlingGameTests/bin/Debug/BowlingGameTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTests.BowlingGameTests, BowlingGameTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NormalGame_EndsAfter10Rounds" />
+    </UnitTest>
+    <UnitTest name="PlayerTwoDoesInvalidExtraShot_ExceptionShouldOccur" storage="c:\users\alin-lucian.taranu\downloads\bowlinggamev3\bowlinggametests\bin\debug\bowlinggametests.dll" id="c812bd00-cca9-2c12-43f6-4c2590190a3f">
+      <Execution timeOut="1800000" id="a3c78ccf-f1d4-4b4d-9b79-9b39ea34a73f" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Downloads/BowlingGamev3/BowlingGameTests/bin/Debug/BowlingGameTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTests.BowlingGameTests, BowlingGameTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PlayerTwoDoesInvalidExtraShot_ExceptionShouldOccur" />
+    </UnitTest>
+    <UnitTest name="InvalidNumberOfPinsDownedIsEnteredForPlayerTwo_ExceptionShoudOccur" storage="c:\users\alin-lucian.taranu\downloads\bowlinggamev3\bowlinggametests\bin\debug\bowlinggametests.dll" id="90a8dff7-1186-f93c-32b1-e2cb6dea92e0">
+      <Execution timeOut="1800000" id="4ebded5d-aed4-4877-a9d5-72ffe002ba12" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Downloads/BowlingGamev3/BowlingGameTests/bin/Debug/BowlingGameTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTests.BowlingGameTests, BowlingGameTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InvalidNumberOfPinsDownedIsEnteredForPlayerTwo_ExceptionShoudOccur" />
+    </UnitTest>
+    <UnitTest name="PlayerOneDoesInvalidExtraShot_ExceptionShouldOccur" storage="c:\users\alin-lucian.taranu\downloads\bowlinggamev3\bowlinggametests\bin\debug\bowlinggametests.dll" id="9d07f928-4627-abc4-31da-428ef8a9dfd8">
+      <Execution timeOut="1800000" id="3476fa1a-a7e6-40a6-bc3e-3e39c8a66eec" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Downloads/BowlingGamev3/BowlingGameTests/bin/Debug/BowlingGameTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTests.BowlingGameTests, BowlingGameTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PlayerOneDoesInvalidExtraShot_ExceptionShouldOccur" />
+    </UnitTest>
+    <UnitTest name="SpareFrameAtTheEndOfGame_IsCalculatedCorrectly" storage="c:\users\alin-lucian.taranu\downloads\bowlinggamev3\bowlinggametests\bin\debug\bowlinggametests.dll" id="37c6191a-5c71-f3ff-8962-8bf87f23fd90">
+      <Execution timeOut="1800000" id="aa66cce5-7a53-4c82-b5c9-7801ef4d83fa" />
+      <TestMethod codeBase="C:/Users/alin-lucian.taranu/Downloads/BowlingGamev3/BowlingGameTests/bin/Debug/BowlingGameTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTests.BowlingGameTests, BowlingGameTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SpareFrameAtTheEndOfGame_IsCalculatedCorrectly" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4789b08b-5656-4557-856f-c4b59073bb43" executionId="ce489284-3156-4ce8-8a6c-f1035aa2a0cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="90a8dff7-1186-f93c-32b1-e2cb6dea92e0" executionId="4ebded5d-aed4-4877-a9d5-72ffe002ba12" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b9f2560a-fedc-7d7d-3b20-e546da9acd51" executionId="0b96be51-86cc-4ec1-a7ec-803fa3cd5e72" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d07f928-4627-abc4-31da-428ef8a9dfd8" executionId="3476fa1a-a7e6-40a6-bc3e-3e39c8a66eec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c812bd00-cca9-2c12-43f6-4c2590190a3f" executionId="a3c78ccf-f1d4-4b4d-9b79-9b39ea34a73f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37c6191a-5c71-f3ff-8962-8bf87f23fd90" executionId="aa66cce5-7a53-4c82-b5c9-7801ef4d83fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54da63ae-9652-4369-e00d-1441a041e0be" executionId="fbd1efe8-6701-4836-a7cc-33006c0c1540" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7fc40d87-75d2-5ae0-8234-db5a4f1ed928" executionId="33057fcf-0a5f-475f-b76a-a5b20abf718a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4411c07b-21ef-500d-4b65-e15eb3261097" executionId="327533f3-03fa-4607-b1f0-2945df6714cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ce489284-3156-4ce8-8a6c-f1035aa2a0cb" testId="4789b08b-5656-4557-856f-c4b59073bb43" testName="InvalidNumberOfPinsDownedIsEnteredForPlayerOne_ExceptionShoudOccur" computerName="MININT-8A6IQ03" duration="00:00:00.0283968" startTime="2015-01-21T08:21:44.2955675+01:00" endTime="2015-01-21T08:21:44.4935873+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce489284-3156-4ce8-8a6c-f1035aa2a0cb">
+    </UnitTestResult>
+    <UnitTestResult executionId="4ebded5d-aed4-4877-a9d5-72ffe002ba12" testId="90a8dff7-1186-f93c-32b1-e2cb6dea92e0" testName="InvalidNumberOfPinsDownedIsEnteredForPlayerTwo_ExceptionShoudOccur" computerName="MININT-8A6IQ03" duration="00:00:00.0010582" startTime="2015-01-21T08:21:44.4965876+01:00" endTime="2015-01-21T08:21:44.4985878+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4ebded5d-aed4-4877-a9d5-72ffe002ba12">
+    </UnitTestResult>
+    <UnitTestResult executionId="0b96be51-86cc-4ec1-a7ec-803fa3cd5e72" testId="b9f2560a-fedc-7d7d-3b20-e546da9acd51" testName="NormalGame_EndsAfter10Rounds" computerName="MININT-8A6IQ03" duration="00:00:00.0038237" startTime="2015-01-21T08:21:44.5025882+01:00" endTime="2015-01-21T08:21:44.5065886+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b96be51-86cc-4ec1-a7ec-803fa3cd5e72">
+    </UnitTestResult>
+    <UnitTestResult executionId="3476fa1a-a7e6-40a6-bc3e-3e39c8a66eec" testId="9d07f928-4627-abc4-31da-428ef8a9dfd8" testName="PlayerOneDoesInvalidExtraShot_ExceptionShouldOccur" computerName="MININT-8A6IQ03" duration="00:00:00.0006289" startTime="2015-01-21T08:21:44.5095889+01:00" endTime="2015-01-21T08:21:44.5105890+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3476fa1a-a7e6-40a6-bc3e-3e39c8a66eec">
+    </UnitTestResult>
+    <UnitTestResult executionId="a3c78ccf-f1d4-4b4d-9b79-9b39ea34a73f" testId="c812bd00-cca9-2c12-43f6-4c2590190a3f" testName="PlayerTwoDoesInvalidExtraShot_ExceptionShouldOccur" computerName="MININT-8A6IQ03" duration="00:00:00.0004899" startTime="2015-01-21T08:21:44.5125892+01:00" endTime="2015-01-21T08:21:44.5135893+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a3c78ccf-f1d4-4b4d-9b79-9b39ea34a73f">
+    </UnitTestResult>
+    <UnitTestResult executionId="aa66cce5-7a53-4c82-b5c9-7801ef4d83fa" testId="37c6191a-5c71-f3ff-8962-8bf87f23fd90" testName="SpareFrameAtTheEndOfGame_IsCalculatedCorrectly" computerName="MININT-8A6IQ03" duration="00:00:00.0004016" startTime="2015-01-21T08:21:44.5155895+01:00" endTime="2015-01-21T08:21:44.5165896+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa66cce5-7a53-4c82-b5c9-7801ef4d83fa">
+    </UnitTestResult>
+    <UnitTestResult executionId="fbd1efe8-6701-4836-a7cc-33006c0c1540" testId="54da63ae-9652-4369-e00d-1441a041e0be" testName="SpareFrameDuringGame_IsCalculatedCorrectly" computerName="MININT-8A6IQ03" duration="00:00:00.0002227" startTime="2015-01-21T08:21:44.5195899+01:00" endTime="2015-01-21T08:21:44.5195899+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fbd1efe8-6701-4836-a7cc-33006c0c1540">
+    </UnitTestResult>
+    <UnitTestResult executionId="33057fcf-0a5f-475f-b76a-a5b20abf718a" testId="7fc40d87-75d2-5ae0-8234-db5a4f1ed928" testName="StrikeFrameAtTheEndOfGame_IsCalculatedCorrectly" computerName="MININT-8A6IQ03" duration="00:00:00.0004135" startTime="2015-01-21T08:21:44.5215901+01:00" endTime="2015-01-21T08:21:44.5235903+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33057fcf-0a5f-475f-b76a-a5b20abf718a">
+    </UnitTestResult>
+    <UnitTestResult executionId="327533f3-03fa-4607-b1f0-2945df6714cb" testId="4411c07b-21ef-500d-4b65-e15eb3261097" testName="StrikeFrameDuringGame_IsCalculatedCorrectly" computerName="MININT-8A6IQ03" duration="00:00:00.0006516" startTime="2015-01-21T08:21:44.5255905+01:00" endTime="2015-01-21T08:21:44.5265906+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="327533f3-03fa-4607-b1f0-2945df6714cb">
+    </UnitTestResult>
+  </Results>
+</TestRun>

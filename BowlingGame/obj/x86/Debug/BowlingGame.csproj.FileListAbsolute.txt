@@ -1,0 +1,4 @@
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGame\bin\Debug\BowlingGame.exe
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGame\bin\Debug\BowlingGame.pdb
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGame\obj\x86\Debug\BowlingGame.exe
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGame\obj\x86\Debug\BowlingGame.pdb

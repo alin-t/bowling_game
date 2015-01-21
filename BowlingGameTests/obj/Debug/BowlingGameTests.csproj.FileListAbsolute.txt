@@ -1,0 +1,7 @@
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGameTests\bin\Debug\BowlingGameTests.dll
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGameTests\bin\Debug\BowlingGameTests.pdb
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGameTests\bin\Debug\BowlingGame.exe
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGameTests\bin\Debug\BowlingGame.pdb
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGameTests\obj\Debug\BowlingGameTests.csprojResolveAssemblyReference.cache
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGameTests\obj\Debug\BowlingGameTests.dll
+C:\Users\alin-lucian.taranu\Downloads\BowlingGamev3\BowlingGameTests\obj\Debug\BowlingGameTests.pdb
